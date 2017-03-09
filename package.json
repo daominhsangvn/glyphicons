@@ -1,0 +1,38 @@
+{  
+  "contributors": [
+    {
+      "name": "Jan Kovarik"
+    },
+    {
+      "name": "Sebastian Podjasek"
+    }
+  ],
+  "dependencies": {},
+  "description": "GLYPHICONS is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.",
+  "devDependencies": {
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "fa6a1bae13b7fdfd79491fec2e7564b9d1969210",
+    "tarball": "https://registry.npmjs.org/glyphicons-halflings/-/glyphicons-halflings-1.9.0.tgz"
+  },
+  "homepage": "http://glyphicons.com/",
+  "keywords": [
+    "css",
+    "scss",
+    "icons",
+    "fonts"
+  ],
+  "license": "CC-BY-3.0",
+  "maintainers": [
+    {
+      "name": "inway",
+      "email": "sebastian@podjasek.pl"
+    }
+  ],
+  "name": "glyphicons-halflings",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.9.0"
+}
